@@ -1,0 +1,186 @@
+.c_about_box .sec_ul {
+	margin-top: 20px;
+}
+.news_li {
+	position: relative;
+	padding: 50px 0px;
+	border-bottom: dashed 1px #ddd;
+}
+.new_lih{height: 216px;}
+.news_li .news_img {
+	position: absolute;
+}
+.news_li .news_cont {
+	margin-left: 415px;
+}
+.news_li .news_cont .h2 {
+	color: #010101;
+	font-size: 22px;
+}
+.news_li .news_cont .p1 {
+	color: #646464;
+	font-size: 10px;
+	line-height: 40px;
+}
+.news_li .news_cont .p1 em {
+	margin-left: 50px;
+}
+.news_li .news_cont .p2 {
+	color: #474747;
+	font-size: 14px;
+	line-height: 25px;
+	padding: 10px 0 15px;
+}
+.news_li .news_cont .a1 {
+	color: #008aff;
+	font-size: 12px;
+	text-decoration: underline;
+}
+.video_ul {
+	margin: 30px 0;
+}
+.video_li {
+	border: none;
+	width: 50%;
+	float: left;
+	padding: 20px 0;
+	height: 410px;
+}
+.video_li_r {
+	text-align: right;
+}
+.video_cont {
+	position: relative;
+}
+.video_li .video_cont {
+	width: 480px;
+	text-align: left;
+}
+.video_cont .h3 {
+	line-height: 30px;
+	color: #010101;
+	font-size: 16px;
+	padding: 10px 0;
+}
+.video_cont .h3_2 {
+	color: #000;
+	font-size: 18px;
+}
+.video_cont .p1 {
+	line-height: 26px;
+	color: #646464;
+	font-size: 14px;
+}
+.video_cont .a {
+	position: absolute;
+	right: 0;
+	color: #28a9e7;
+	top: 14px;
+	font-size: 14px;
+}
+.video_li_r .video_cont {
+	margin-left: 20px;
+}
+.jobs_li {
+	padding: 50px 0;
+}
+.jobs_li .h2 {
+	font-size: 24px;
+	color: #000;
+}
+.jobs_li .d1 {
+	border-left: 3px solid #ff9e35;
+	font-size: 14px;
+	height: 16px;
+	line-height: 16px;
+	padding-left: 15px;
+	margin: 30px 0 10px;
+}
+.jobs_li .d2 {
+	font-size: 14px;
+}
+.jobs_li .d2 li {
+	line-height: 25px;
+}
+.jobs_li .d3 {
+	font-size: 14px;
+	margin-top: 20px;
+}
+.jobs_li .d3 .a {
+	display: inline-block;
+	width: 100px;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+	margin-right: 20px;
+}
+.jobs_li .d3 .a:hover {
+	text-decoration: none;
+}
+.jobs_li .d3 .job51 {
+	background-color: #ff9e35;
+	margin-left: 5px;
+}
+.jobs_li .d3 .job51:hover {
+	background-color: #ff9e35;
+}
+.jobs_li .d3 .lagou {
+	background-color: #ff9e35;
+}
+.jobs_li .d3 .lagou:hover {
+	background-color: #ff9e35;
+}
+.jobs_li .d3 em {
+	text-decoration: underline;
+	color: #005bf2;
+}
+.c_about_cont .img1 {
+	margin: 40px 0;
+}
+.c_about_cont .img2 {
+	margin: 10px 0 40px;
+}
+/*学车资讯的样式 start*/
+
+.news-informa {
+	width: 1080px !important;
+	margin: 0 auto !important;
+	margin-top: 40px !important;
+}
+.news-matter {
+	width: 1070px !important;
+}
+.news-details {
+	width: 740px !important;
+}
+.news-lig {
+	padding: 20px 0px !important;
+	/*height: 150px !important;*/
+}
+.fixation {
+    width: 248px;
+    min-height: 162px;
+    margin-top: 4px;
+}
+.fixation-w {
+	overflow: hidden;
+    max-height: 222px;
+}
+.news-contg {
+	margin-left: 268px!important;
+}
+.new-font20 {
+	font-size: 16px !important;
+
+}
+.new-font12 {
+	font-size: 12px !important;
+}
+.news-line {
+	line-height: 20px !important;
+}
+
+.new-ul{
+	border-bottom: 1px solid #E6E3E3 !important;
+}
+/*学车资讯的样式 end*/

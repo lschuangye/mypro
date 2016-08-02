@@ -1,0 +1,148 @@
+.address table {
+	margin: 30px 0px 20px 0;
+}
+#qrcode {
+	width: 128px;
+	height: 128px;
+	float: left;
+}
+.address td {
+	padding-top: 10px;
+	line-height: 25px;
+	text-align: left;
+	vertical-align: top;
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+.m_bottom {
+	margin-top: 50px;
+}
+.m_address {
+	width: 920px;
+	margin: 0px auto;
+	height: 400px;
+}
+.m_address .l {
+	width: 330px;
+	height: 400px;
+	float: left;
+}
+.m_address .r {
+	width: 590px;
+	height: 400px;
+	float: left
+}
+.viwepager {
+	overflow: hidden;
+}
+.cont_box {
+	width: 778px;
+	height: 404px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+}
+.cont_box ul.pic {
+	float: left;
+}
+.cont_box ul.pic li {
+	float: left;
+	width: 778px;
+}
+.cont_box .button {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	top: 50%;
+	margin-top: -28px;
+	cursor: pointer;
+}
+.cont_box .leftIcon {
+	background: url(../../img/leftbtn.png) repeat scroll top;
+	left: 5px;
+}
+.cont_box .leftIcon:hover {
+	background: url(../../img/leftbtn_s.png) repeat scroll top;
+	left: 5px;
+}
+.cont_box .rightIcon {
+	background: url(../../img/rightbtn.png) repeat scroll top;
+	right: 5px;
+}
+.cont_box .rightIcon:hover {
+	background: url(../../img/rightbtn_s.png) repeat scroll top;
+	right: 5px;
+}
+.cont_list {
+	float: right;
+	width: 180px;
+	text-align: left;
+	font-size: 16px;
+	border-top: 1px solid #eee;
+}
+.cont_list li {
+	height: 55px;
+	line-height: 55px;
+	border-bottom: 1px solid #eee;
+}
+.cont_list li a:hover,
+.cont_list li.on a {
+	color: #28a9e7;
+	position: relative;
+}
+.dot {
+	border-radius: 15px;
+	position: absolute;
+	left: 50%;
+	bottom: 10px;
+	background: rgba(0, 0, 0, 0.6);
+	padding: 0 10px;
+	transform: translate(-50%, 0);
+	-webkit-transform: translate(-50%, 0);
+	-moz-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+}
+.dot li {
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+	float: left;
+}
+.dot li span {
+	border-radius: 50%;
+	width: 8px;
+	height: 8px;
+	display: inline-block;
+	cursor: pointer;
+	background: #FFF;
+}
+.dot li.on span {
+	width: 16px;
+	height: 16px;
+	margin-top: 7px;
+}
+.cont_list li.on a:after {
+	content: "";
+	display: block;
+	position: absolute;
+	left: -22px;
+	top: 4px;
+	width: 0px;
+	height: 0px;
+	border-width: 6px 10px 6px 6px;
+	border-style: solid;
+	border-color: transparent #28a9e7 transparent transparent;
+}
+.company_shiming {
+	width: 180px;
+}
+.tit-ml {
+	text-align: left !important;
+	margin-left: -1.2rem !important;
+}
+.intro-ml-p {
+	text-align: left !important;
+	margin-left: 0rem !important;
+}

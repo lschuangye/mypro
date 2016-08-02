@@ -1,0 +1,316 @@
+/* CSS Document */
+
+.cp-info {
+	width: 990px;
+	margin: 0 auto;
+	padding-top: 12px;
+}
+.cp-info-rem {
+	padding-top: 25px;
+}
+.cp-tit {
+	font-size: 25px;
+	color: #303030;
+	margin-top: 5px;
+}
+.cp-p {
+	line-height: 28px;
+	color: #646464;
+	font-size: 14px;
+	margin-top: 5px;
+}
+.cp-textindex1 {
+	text-indent: 1em;
+}
+.cp-textindex2 {
+	text-indent: 2em;
+}
+.cp-textindex3 {
+	text-indent: 2em;
+}
+.fd-center {
+	width: 1170px;
+	margin: 20px auto 0;
+	height: 420px;
+}
+.influence-tit {
+	color: #000000;
+	font-size: 50px;
+	text-align: center;
+	margin: 50px 0 50px 0px;
+}
+.font-num70 {
+	font-size: 70px;
+}
+.activity-info {
+	font-size: 30px;
+	color: #646464;
+	margin-top: 20px;
+	padding: 20px 90px;
+}
+.activity-text {
+	width: 1020px;
+}
+.activity-span {
+	font-size: 30px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #000000;
+}
+.activity-img {
+	text-align: center;
+	margin-top: 10px;
+}
+.inf-border-b {
+	border-bottom: 1px solid #f39800;
+}
+.case-info {
+	background-color: #f6f5f5;
+	height: 680px;
+	margin-top: 50px;
+}
+.caseall-tit {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	color: #303030;
+}
+.case-center {
+	width: 800px;
+	margin: 0 auto;
+}
+.case-tit {
+	font-size: 20px;
+	margin: 6px auto;
+}
+.caseleft-img {
+	width: 36%;
+	float: left;
+	margin-right: 34px;
+}
+.caseright-text {
+	line-height: 25px;
+	color: #878787;
+	font-size: 13px;
+}
+.caseright-text-mg {
+	margin: 10px auto;
+	color: #ff9e35;
+}
+.caseright-text-p {
+	text-indent: 2em;
+}
+.case-mg {
+	margin-top: 36px;
+}
+.dowm-topimg {
+	/*background:#ffb941;*/
+}
+.active-span-text {
+	font-size: 20px;
+	margin-top: 14px;
+}
+/*创始团队 start*/
+
+.font-num24 {
+	font-size: 24px;
+}
+.font-num17 {
+	font-size: 17px;
+	padding: 10px 0 2px;
+}
+.font-color {
+	color: #646464;
+	font-size: 16px;
+}
+.team-people {
+	width: 720px;
+	margin: 0 auto;
+}
+.team-right {
+	line-height: 23px;
+	/*margin-top: 80px;*/
+	
+	margin-left: 23px;
+	text-align: left;
+}
+.team-people dd {
+	line-height: 30px;
+	text-align: left;
+	margin-top: 20px;
+	width: 720px;
+	color: #646464;
+	font-size: 14px;
+}
+.people-mgt {
+	margin-top: 65px;
+}
+.people-text {
+	margin-top: 50px;
+}
+.fetion {
+	width: 550px;
+}
+.fetion dd {
+	/*width: 605px;*/
+	
+	width: 542px;
+	font-size: 13px;
+}
+.fetion-left {
+	margin-left: -100px;
+}
+.fetion-right {
+	margin-right: 80px
+}
+/*创始团队 end*/
+/*红包领取页面样式 start*/
+
+.red-packet {
+	width: 1336px;
+	background-color: #f36978;
+}
+.packet-content {
+	width: 1099px;
+	background-color: #fff6bf;
+}
+.magin-t-num40 {
+	margin-top: 40px !important;
+}
+.magin-t-num20 {
+	margin-top: 20px !important;
+}
+.cont-top {
+	background-color: #e3384a;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+.cont-top-img {
+	padding-top: 10px;
+	padding-bottom: 8px;
+}
+.cont-foot {
+	width: 700px;
+	padding: 50px 0;
+}
+.cont-general {} .cont-lbl {
+	display: inline-block;
+	width: 160px;
+	text-align: right;
+	color: #e76817;
+	font-size: 17px;
+}
+.cont-bg-p {
+	display: inline-block;
+	background-color: #ffffff;
+	padding: 15px 10px 10px 10px;
+	margin-left: 20px;
+}
+.cont-bg-width1 {
+	width: 450px;
+}
+.cont-bg-width2 {
+	width: 300px;
+}
+.cont-bg-width3 {
+	width: 100px;
+}
+.captcha {
+	display: inline-block;
+	margin-left: 28px;
+	text-align: center;
+}
+.cont-input {
+	border: none;
+	font-size: 17px;
+	width: 100%;
+}
+.contsubmit {
+	width: 160px;
+	margin: 24px auto 0;
+}
+.cont-btn {
+	width: 100%;
+	height: 40px;
+	background-color: #ffdf00;
+	border: none;
+	border-bottom: 4px solid #ff9c00;
+	color: #ce4500;
+	font-size: 20px;
+}
+.step-txt {
+	line-height: 30px;
+	font-size: 15px;
+	color: #f15a01;
+	padding: 20px 27px 10px;
+}
+.step-img {
+	padding-bottom: 20px;
+}
+.cont-error {
+	display: none;
+	margin: 0 0 10px 182px;
+}
+.success-tit {
+	text-align: center;
+	color: #e86915;
+	font-size: 32px;
+}
+.money {
+	margin-top: 20px;
+	display: inline-block;
+}
+.money dd {
+	font-size: 23px;
+	color: #ff9e35;
+	letter-spacing: 2px;
+	margin-top: 8px;
+}
+.money-txt {
+	letter-spacing: 0px;
+	margin-left: 15px;
+}
+.erwm {
+	margin-right: 20px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.erwm dd {
+	font-size: 15px;
+	letter-spacing: 0;
+	margin-top: 8px;
+	color: #ff9e35;
+}
+.dis-none {
+	display: none;
+}
+.ml-rem {
+	line-height: 30px;
+	color: #646464;
+	font-size: 14px;
+	margin-top: 1.5rem;
+}
+.mt-rem {
+	margin-top: 1rem;
+}
+.fouder-one {
+	height: 270px;
+	margin: 60px auto 0;
+}
+.founder-one-p {
+	line-height: 30px;
+	text-align: left;
+	color: #646464;
+	font-size: 13px;
+}
+/*红包领取页面样式 end*/
+
+@media screen and (max-width: 1366px) {
+	.cp-info {
+		width: 1170px;
+		margin: 0 auto;
+		padding-top: 3rem;
+	}
+}
